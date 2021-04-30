@@ -29,6 +29,7 @@ public class BrowserView extends Activity {
       urlText = (EditText) findViewById(R.id.url_field);
       goButton = (Button) findViewById(R.id.go_button);
       webView = (WebView) findViewById(R.id.web_view);
+
       webView.getSettings().setJavaScriptEnabled(true);
 
       // Set button to open browser
