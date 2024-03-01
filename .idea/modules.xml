@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/09-BrowserView.iml" filepath="$PROJECT_DIR$/09-BrowserView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/09-BrowserView.iml" filepath="$PROJECT_DIR$/.idea/modules/09-BrowserView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/09-BrowserView.app.unitTest.iml" />
     </modules>
   </component>
 </project>
